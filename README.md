@@ -15,6 +15,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alibabarahaei/alibabarahaei/blob/output/snake.svg" alt="Snake animation" />
+<img src="./img/snack.svg" alt="Snake animation" />
 
 ###
