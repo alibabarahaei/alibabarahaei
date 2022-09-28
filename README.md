@@ -15,6 +15,6 @@
 
 ###
 
-<img src="./img/snack.svg" alt="Snake animation" />
+<img src="./img/snacke.svg" alt="Snake animation" />
 
 ###
