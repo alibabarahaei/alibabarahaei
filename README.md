@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🛠   I’m currently working with .Net, <br>🚀   I’m currently learning BackEnd Development<br>👨🏻‍💻   Most of my projects are available on Github.<br>🎓  I'm currently studying Computer Engineering in ShahedUniversity<br>💬   Ask me about C#,Net  here! I am happy to help.<br>👾   Fun fact: Equal is Not Always Equal in Javascript.<br>📫   How to reach me: alibabarahaei@gmail.com.<br>🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>📝   Checkout my Resume.</p>
+<p align="left">🛠   I’m currently working with .Net, <br>🚀   I’m currently learning BackEnd Development<br>👨🏻‍💻   Most of my projects are available on Github.<br>🎓  I'm currently studying Computer Engineering in ShahedUniversity<br>💬   Ask me about C#,Net  here! I am happy to help.<br>👾   Fun fact: <br>📫   How to reach me: alibabarahaei@gmail.com.<br>🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>📝   Checkout my <a href=# >Resume</a>.</p>
 
 ###
 
